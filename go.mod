@@ -1,4 +1,4 @@
-module github.com/yunion.io/x/onecloud
+module github.com/CDU/cloudpods
 
 go 1.21
 
