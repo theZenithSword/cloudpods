@@ -1,4 +1,4 @@
-module github.com/CDU/cloudpods
+module github.com/theZenithSword/cloudpods
 
 go 1.21
 
