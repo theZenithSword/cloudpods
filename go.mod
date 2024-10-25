@@ -1,4 +1,4 @@
-module yunion.io/x/onecloud
+module github.com/yunion.io/x/onecloud
 
 go 1.21
 
